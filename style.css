@@ -13,3 +13,6 @@ h1 {
 p {
    color: white;
 }
+.gallery autoplay items-3 { 
+	background-color: white;
+}
