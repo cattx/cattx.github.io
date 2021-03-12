@@ -9,7 +9,7 @@ h1{
 	text-align: center;
 }
 h1 {
-    color: white;
+    color: linear-gradient(to bottom, #980021 130%);;
 }
 p {
    color: white;
