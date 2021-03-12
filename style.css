@@ -17,3 +17,6 @@ p {
 .gallery autoplay items-3 { 
 	background-color: white;
 }
+.bixo loko img {
+	image-position: right top;
+}
