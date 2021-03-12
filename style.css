@@ -7,8 +7,9 @@ h1 {font-size: 44px;}
 h1{
 	text-align: center;
 }
-p {
+h2 {
    color: white;
+   font-size: 24px;
 }
 .bixo loko img {
 	image-position: right top;
