@@ -7,15 +7,24 @@ h1 {font-size: 24px;}
 h1{
 	text-align: center;
 }
-h1 {
-    color: linear-gradient(to bottom, #980021 130%);;
-}
 p {
    color: white;
+   font-size: 16px;}
 }
 .gallery autoplay items-3 { 
 	background-color: white;
 }
 .bixo loko img {
 	image-position: right top;
+}
+h1 {
+  font-size:48px;
+  -webkit-background-clip: text;
+  color: white;
+  -webkit-text-fill-color: transparent;
+  background-image: -webkit-gradient(linear,left top,right top,from(#ea8711), to(#d96363));
+  background-image: -webkit-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+  background-image: -moz-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+  background-image: -ms-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
+  background-image: -o-linear-gradient(left,#ea8711,#d96363,#73a6df,#9085fb,#52ca79);
 }
