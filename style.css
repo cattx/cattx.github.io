@@ -7,9 +7,10 @@ h1 {font-size: 44px;}
 h1{
 	text-align: center;
 }
-h2 {
+p {
    color: white;
    font-size: 24px;
+   font: italic 75%/125% "Comic Sans MS";
 }
 .bixo loko img {
 	image-position: right top;
