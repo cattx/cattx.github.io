@@ -1,15 +1,17 @@
-  
 .gallery .control-button {
-  color: #ccc;
-  color: rgba(255, 255, 255, 0.4);
+  color: white;
+  color: white;
+    background-color: white;
 }
 
 .gallery .control-button:hover {
-  color: white;
+  color: black;
   color: rgba(255, 255, 255, 0.8);
+    background-color: white;
 }
 .gallery {
   position: static;
+    background-color: white;
 }
 .gallery .item {
   height: 400px;
