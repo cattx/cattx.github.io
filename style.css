@@ -1,11 +1,12 @@
   
 body {
-background-image: url("https://media1.tenor.com/images/c5b2cdbe3815555653dacafacb035dfe/tenor.gif");
+background-image: url("https://media1.tenor.com/images/c5b2cdbe3815555653dacafacb035dfe/tenor.gif"
 }
 h1 {font: italic 75%/125% "Comic Sans MS", cursive;}
 h1 {font-size: 44px;}
 h1{
 	text-align: center;
+	background-color: aquamarine;
 }
 h2 {
    color: white;
