@@ -10,7 +10,7 @@
     background-color: white;
 }
 .gallery {
-  position: static;
+  position: relative;
     background-color: white;
 }
 .gallery .item {
