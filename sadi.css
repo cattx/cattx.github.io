@@ -9,7 +9,7 @@
   color: rgba(255, 255, 255, 0.8);
 }
 .gallery {
-  position: relative;
+  position: static;
 }
 .gallery .item {
   height: 400px;
@@ -26,7 +26,7 @@
 .gallery .control-button {
   display: inline-block;
   margin: 0 .02em;
-  font-size: 3em;
+  font-size: 5em;
   text-align: center;
   text-decoration: none;
   transition: color .1s;
